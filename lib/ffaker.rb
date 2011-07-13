@@ -35,6 +35,7 @@ module Faker
   autoload :Geolocation,   'ffaker/geolocation'
   autoload :HTMLIpsum,     'ffaker/html_ipsum'
   autoload :HipsterIpsum,  'ffaker/hipster_ipsum'
+  autoload :I18n,        'ffaker/i18n'
   autoload :Internet,      'ffaker/internet'
   autoload :Lorem,         'ffaker/lorem'
   autoload :LoremCN,       'ffaker/lorem_cn'
