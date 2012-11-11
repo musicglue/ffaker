@@ -1,3 +1,15 @@
+== 1.15.0
+NameKR (https://github.com/EmmanuelOga/ffaker/pull/47) and PhoneNumbersSG
+(https://github.com/EmmanuelOga/ffaker/pull/46).
+
+== 1.14.0
+
+AddressSN (thanks PapePethe), and a bugfix on Faker::Product.model (thanks finarfin).
+
+== 1.13.0
+
+Education bug fix, Faker::Job (thanks Piotr Usewicz)
+
 == 1.12.0
 
 Faker::AddressAU and FakkerAddressPhoneAU modules (thanks Ben Wiseley).

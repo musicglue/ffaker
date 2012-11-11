@@ -77,12 +77,13 @@ $ cat scripts/benchmark.rb
 * doctorbh (https://github.com/doctorbh)
 * Ben Wisleey ( https://github.com/wiseleyb )
 * Simon Russel ( https://github.com/simonrussell )
-
-* See complete list: https://github.com/EmmanuelOga/ffaker/network
+* Piotr Usewicz ( https://github.com/pusewicz )
+* And others... see complete list: https://github.com/EmmanuelOga/ffaker/network/members
 
 == TODO
 
 * Even though the API is pretty simple, better rdoc documentation would not hurt.
+* Put all modules under its respective language (E.G. EducationUS instead of just Education)
 
 == Note on Patches/Pull Requests
 
